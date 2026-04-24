@@ -1,0 +1,12 @@
+.idea/
+/node_modules
+/dist/*
+!/dist/.gitkeep
+/docs/js/main.min.js
+/docs/css
+docs/css/style.min.css.map
+gulpfile.js
+robots.txt
+sitemap.xml
+web.config
+.htaccess
