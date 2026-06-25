@@ -9,5 +9,6 @@ document.addEventListener('DOMContentLoaded', () => {
     header.classList.toggle('scrolled', scrolled);
     if (floatingCta) {
       floatingCta.classList.toggle('visible', window.scrollY > 600);
-
-  }
+    }
+  };
+}
