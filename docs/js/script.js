@@ -5,5 +5,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const floatingCta = document.getElementById('floatingCta');
 
   const onScroll = () => {
+    const scrolled = window.scrollY > 80;
 
   }
