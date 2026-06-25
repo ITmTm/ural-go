@@ -4,4 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const header = document.getElementById('header');
   const floatingCta = document.getElementById('floatingCta');
 
-}
+  const onScroll = () => {
+
+  }
