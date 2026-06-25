@@ -7,5 +7,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const onScroll = () => {
     const scrolled = window.scrollY > 80;
     header.classList.toggle('scrolled', scrolled);
+    if (floatingCta) {
 
   }
