@@ -8,5 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const scrolled = window.scrollY > 80;
     header.classList.toggle('scrolled', scrolled);
     if (floatingCta) {
+      floatingCta.classList.toggle('visible', window.scrollY > 600);
 
   }
