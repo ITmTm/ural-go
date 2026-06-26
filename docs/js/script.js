@@ -20,6 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const tickerTrack = document.getElementById('tickerTrack');
   if (tickerItems && tickerTrack) {
     // Клонируем 3 раза чтобы точно хватило на любой экран
+    tickerTrack.appendChild(tickerItems.cloneNode(true));
 
 
 
