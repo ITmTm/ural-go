@@ -21,6 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (tickerItems && tickerTrack) {
     // Клонируем 3 раза чтобы точно хватило на любой экран
     tickerTrack.appendChild(tickerItems.cloneNode(true));
+    tickerTrack.appendChild(tickerItems.cloneNode(true));
 
 
 
