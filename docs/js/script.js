@@ -24,7 +24,9 @@ document.addEventListener('DOMContentLoaded', () => {
     tickerTrack.appendChild(tickerItems.cloneNode(true));
     tickerTrack.appendChild(tickerItems.cloneNode(true));
 
+    let pos = 0;
 
 
-});
+
+  });
 
