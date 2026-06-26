@@ -17,6 +17,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // --- Infinite ticker ---
   const tickerItems = document.getElementById('tickerItems');
+  const tickerTrack = document.getElementById('tickerTrack');
+
+
 
 });
 
