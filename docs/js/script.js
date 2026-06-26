@@ -32,6 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
       pos -= speed;
       if (Math.abs(pos) >= itemWidth) {
         pos += itemWidth;
+      }
 
 
 
