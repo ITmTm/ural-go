@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
   window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
+  // --- Infinite ticker ---
 
 
 }
