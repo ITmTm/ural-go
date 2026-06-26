@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const tickerItems = document.getElementById('tickerItems');
   const tickerTrack = document.getElementById('tickerTrack');
   if (tickerItems && tickerTrack) {
+    // Клонируем 3 раза чтобы точно хватило на любой экран
 
 
 
