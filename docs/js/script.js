@@ -30,6 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function tickerLoop() {
       pos -= speed;
+      if (Math.abs(pos) >= itemWidth) {
 
 
 
