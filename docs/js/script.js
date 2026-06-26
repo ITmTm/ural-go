@@ -11,4 +11,10 @@ document.addEventListener('DOMContentLoaded', () => {
       floatingCta.classList.toggle('visible', window.scrollY > 600);
     }
   };
+
+  window.addEventListener('scroll', onScroll, { passive: true });
+
+
+
 }
+
