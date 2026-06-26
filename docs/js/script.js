@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
   onScroll();
 
   // --- Infinite ticker ---
+  const tickerItems = document.getElementById('tickerItems');
 
-
-}
+});
 
