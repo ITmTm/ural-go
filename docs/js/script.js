@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let pos = 0;
     const speed = 0.5;
+    const itemWidth = tickerItems.scrollWidth;
 
 
 
