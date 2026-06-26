@@ -25,6 +25,7 @@ document.addEventListener('DOMContentLoaded', () => {
     tickerTrack.appendChild(tickerItems.cloneNode(true));
 
     let pos = 0;
+    const speed = 0.5;
 
 
 
