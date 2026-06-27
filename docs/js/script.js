@@ -48,6 +48,8 @@ document.addEventListener('DOMContentLoaded', () => {
     document.body.style.overflow = mobileMenu.classList.contains('active') ? 'hidden' : '';
   });
 
+  // Close mobile menu on link click
+
 
 
 });
