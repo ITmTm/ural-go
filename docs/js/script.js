@@ -34,6 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         pos += itemWidth;
       }
       tickerTrack.style.transform = `translateX(${pos}px)`;
+      requestAnimationFrame(tickerLoop);
 
 
 
