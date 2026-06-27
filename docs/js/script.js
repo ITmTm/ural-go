@@ -37,6 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
       requestAnimationFrame(tickerLoop);
     }
     requestAnimationFrame(tickerLoop);
+  }
 
 
 
