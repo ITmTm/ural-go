@@ -42,6 +42,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Burger menu ---
   const burger = document.getElementById('burger');
   const mobileMenu = document.getElementById('mobileMenu');
+  burger.addEventListener('click', () => {
 
 
 
