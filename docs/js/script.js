@@ -52,6 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('[data-nav]').forEach(link => {
     link.addEventListener('click', () => {
       burger.classList.remove('active');
+      mobileMenu.classList.remove('active');
 
 
 
