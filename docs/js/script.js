@@ -53,6 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
     link.addEventListener('click', () => {
       burger.classList.remove('active');
       mobileMenu.classList.remove('active');
+      document.body.style.overflow = '';
 
 
 
