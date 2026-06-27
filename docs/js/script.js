@@ -40,6 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // --- Burger menu ---
+  const burger = document.getElementById('burger');
 
 
 
