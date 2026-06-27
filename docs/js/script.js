@@ -39,7 +39,9 @@ document.addEventListener('DOMContentLoaded', () => {
     requestAnimationFrame(tickerLoop);
   }
 
+  // --- Burger menu ---
 
 
-    });
+
+});
 
