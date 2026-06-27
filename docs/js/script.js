@@ -54,6 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
       burger.classList.remove('active');
       mobileMenu.classList.remove('active');
       document.body.style.overflow = '';
+    });
 
 
 
