@@ -45,6 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
   burger.addEventListener('click', () => {
     burger.classList.toggle('active');
     mobileMenu.classList.toggle('active');
+    document.body.style.overflow = mobileMenu.classList.contains('active') ? 'hidden' : '';
 
 
 
