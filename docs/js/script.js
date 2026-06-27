@@ -55,6 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
       mobileMenu.classList.remove('active');
       document.body.style.overflow = '';
     });
+  });
 
 
 
