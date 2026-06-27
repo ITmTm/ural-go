@@ -51,6 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // Close mobile menu on link click
   document.querySelectorAll('[data-nav]').forEach(link => {
     link.addEventListener('click', () => {
+      burger.classList.remove('active');
 
 
 
