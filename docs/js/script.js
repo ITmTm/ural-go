@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (Math.abs(pos) >= itemWidth) {
         pos += itemWidth;
       }
+      tickerTrack.style.transform = `translateX(${pos}px)`;
 
 
 
