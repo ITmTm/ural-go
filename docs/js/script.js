@@ -36,6 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
       tickerTrack.style.transform = `translateX(${pos}px)`;
       requestAnimationFrame(tickerLoop);
     }
+    requestAnimationFrame(tickerLoop);
 
 
 
