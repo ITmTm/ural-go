@@ -49,6 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // Close mobile menu on link click
+  document.querySelectorAll('[data-nav]').forEach(link => {
 
 
 
