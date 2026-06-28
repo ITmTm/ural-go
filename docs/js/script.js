@@ -75,6 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
         item.classList.add('active');
         answer.style.maxHeight = answer.scrollHeight + 'px';
       }
+    });
 
 });
 
