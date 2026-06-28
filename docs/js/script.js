@@ -64,6 +64,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const answer = item.querySelector('.faq__answer');
       const isActive = item.classList.contains('active');
 
+      // Close all
 
 });
 
