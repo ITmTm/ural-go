@@ -66,6 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Close all
       document.querySelectorAll('.faq__item').forEach(i => {
+        i.classList.remove('active');
 
 });
 
