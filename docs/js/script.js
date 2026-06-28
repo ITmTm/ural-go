@@ -65,6 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const isActive = item.classList.contains('active');
 
       // Close all
+      document.querySelectorAll('.faq__item').forEach(i => {
 
 });
 
