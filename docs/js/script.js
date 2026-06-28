@@ -62,6 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
     btn.addEventListener('click', () => {
       const item = btn.closest('.faq__item');
       const answer = item.querySelector('.faq__answer');
+      const isActive = item.classList.contains('active');
 
 
 });
