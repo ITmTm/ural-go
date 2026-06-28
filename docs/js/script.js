@@ -73,6 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
       // Open clicked if was closed
       if (!isActive) {
         item.classList.add('active');
+        answer.style.maxHeight = answer.scrollHeight + 'px';
 
 });
 
