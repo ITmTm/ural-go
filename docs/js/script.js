@@ -76,6 +76,7 @@ document.addEventListener('DOMContentLoaded', () => {
         answer.style.maxHeight = answer.scrollHeight + 'px';
       }
     });
+  });
 
 });
 
