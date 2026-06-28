@@ -68,6 +68,9 @@ document.addEventListener('DOMContentLoaded', () => {
       document.querySelectorAll('.faq__item').forEach(i => {
         i.classList.remove('active');
         i.querySelector('.faq__answer').style.maxHeight = '0';
+      });
 
+
+      
 });
 
