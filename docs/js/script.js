@@ -60,6 +60,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- FAQ accordion ---
   document.querySelectorAll('.faq__question').forEach(btn => {
     btn.addEventListener('click', () => {
+      const item = btn.closest('.faq__item');
 
 
 });
