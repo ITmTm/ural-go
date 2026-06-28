@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
         i.querySelector('.faq__answer').style.maxHeight = '0';
       });
 
+      // Open clicked if was closed
 
-      
 });
 
