@@ -58,6 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // --- FAQ accordion ---
+  document.querySelectorAll('.faq__question').forEach(btn => {
 
 
 });
