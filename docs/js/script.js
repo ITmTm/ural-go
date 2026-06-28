@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.faq__question').forEach(btn => {
     btn.addEventListener('click', () => {
       const item = btn.closest('.faq__item');
+      const answer = item.querySelector('.faq__answer');
 
 
 });
