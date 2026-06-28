@@ -71,6 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
       });
 
       // Open clicked if was closed
+      if (!isActive) {
 
 });
 
