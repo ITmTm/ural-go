@@ -72,6 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
       // Open clicked if was closed
       if (!isActive) {
+        item.classList.add('active');
 
 });
 
