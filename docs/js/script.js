@@ -94,6 +94,7 @@ document.addEventListener('DOMContentLoaded', () => {
   revealElements.forEach((el, i) => {
     el.style.transitionDelay = `${(i % 6) * 0.15}s`;
     revealObserver.observe(el);
+  });
 
   });
 
