@@ -78,5 +78,9 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+
+  // --- Scroll reveal ---
+  const revealElements = document.querySelectorAll('.reveal');
+
 });
 
