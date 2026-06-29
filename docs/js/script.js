@@ -82,5 +82,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Scroll reveal ---
   const revealElements = document.querySelectorAll('.reveal');
 
-});
+  const revealObserver = new IntersectionObserver((entries) => {
+
+  });
 
