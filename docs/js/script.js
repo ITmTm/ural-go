@@ -92,6 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }, { threshold: 0.1, rootMargin: '0px 0px -100px 0px' });
 
   revealElements.forEach((el, i) => {
+    el.style.transitionDelay = `${(i % 6) * 0.15}s`;
 
   });
 
