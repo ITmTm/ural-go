@@ -88,6 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
         entry.target.classList.add('visible');
         revealObserver.unobserve(entry.target);
       }
+    });
 
   });
 
