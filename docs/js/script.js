@@ -97,5 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   // --- Smooth anchor scroll offset ---
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+
   });
 
