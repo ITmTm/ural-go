@@ -111,5 +111,8 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
+  // --- Cookies banner ---
+  const cookieBanner = document.getElementById('cookieBanner');
+
   });
 
