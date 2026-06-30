@@ -99,6 +99,7 @@ document.addEventListener('DOMContentLoaded', () => {
   // --- Smooth anchor scroll offset ---
   document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', (e) => {
+      const targetId = anchor.getAttribute('href');
 
   });
 
