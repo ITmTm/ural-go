@@ -103,6 +103,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (targetId === '#') return;
       const target = document.querySelector(targetId);
       if (target) {
+        e.preventDefault();
 
   });
 
