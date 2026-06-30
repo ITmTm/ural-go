@@ -105,6 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (target) {
         e.preventDefault();
         const offset = 80;
+        const top = target.getBoundingClientRect().top + window.scrollY - offset;
 
   });
 
