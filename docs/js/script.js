@@ -116,6 +116,7 @@ document.addEventListener('DOMContentLoaded', () => {
   if (cookieBanner) {
     if (localStorage.getItem('cookiesAccepted')) {
       cookieBanner.classList.add('hidden');
+    }
 
   });
 
