@@ -96,5 +96,6 @@ document.addEventListener('DOMContentLoaded', () => {
     revealObserver.observe(el);
   });
 
+  // --- Smooth anchor scroll offset ---
   });
 
