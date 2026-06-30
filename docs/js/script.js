@@ -102,6 +102,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const targetId = anchor.getAttribute('href');
       if (targetId === '#') return;
       const target = document.querySelector(targetId);
+      if (target) {
 
   });
 
