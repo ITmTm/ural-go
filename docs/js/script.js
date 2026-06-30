@@ -101,6 +101,7 @@ document.addEventListener('DOMContentLoaded', () => {
     anchor.addEventListener('click', (e) => {
       const targetId = anchor.getAttribute('href');
       if (targetId === '#') return;
+      const target = document.querySelector(targetId);
 
   });
 
