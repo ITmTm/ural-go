@@ -104,6 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
       const target = document.querySelector(targetId);
       if (target) {
         e.preventDefault();
+        const offset = 80;
 
   });
 
