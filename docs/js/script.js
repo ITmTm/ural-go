@@ -124,6 +124,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     document.getElementById('cookieCancel')?.addEventListener('click', () => {
+      localStorage.setItem('cookiesAccepted', 'false');
 
     });
 
