@@ -123,5 +123,7 @@ document.addEventListener('DOMContentLoaded', () => {
       cookieBanner.classList.add('hidden');
     });
 
+    document.getElementById('cookieCancel')?.addEventListener('click', () => {
+
     });
 
