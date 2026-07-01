@@ -119,6 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     document.getElementById('cookieAccept')?.addEventListener('click', () => {
+      localStorage.setItem('cookiesAccepted', 'true');
 
     });
 
