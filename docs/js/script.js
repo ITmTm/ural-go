@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-
   // --- Header scroll ---
   const header = document.getElementById('header');
   const floatingCta = document.getElementById('floatingCta');
@@ -11,11 +10,10 @@ document.addEventListener('DOMContentLoaded', () => {
       floatingCta.classList.toggle('visible', window.scrollY > 600);
     }
   };
-
-  window.addEventListener('scroll', onScroll, {passive: true});
+  window.addEventListener('scroll', onScroll, { passive: true });
   onScroll();
 
-  // --- Infinite ticker ---
+// --- Infinite ticker ---
   const tickerItems = document.getElementById('tickerItems');
   const tickerTrack = document.getElementById('tickerTrack');
   if (tickerItems && tickerTrack) {
@@ -36,13 +34,13 @@ document.addEventListener('DOMContentLoaded', () => {
       tickerTrack.style.transform = `translateX(${pos}px)`;
       requestAnimationFrame(tickerLoop);
     }
-
     requestAnimationFrame(tickerLoop);
   }
 
   // --- Burger menu ---
   const burger = document.getElementById('burger');
   const mobileMenu = document.getElementById('mobileMenu');
+
   burger.addEventListener('click', () => {
     burger.classList.toggle('active');
     mobileMenu.classList.toggle('active');
@@ -79,7 +77,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-
   // --- Scroll reveal ---
   const revealElements = document.querySelectorAll('.reveal');
 
@@ -90,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
         revealObserver.unobserve(entry.target);
       }
     });
-  }, {threshold: 0.1, rootMargin: '0px 0px -100px 0px'});
+  }, { threshold: 0.1, rootMargin: '0px 0px -100px 0px' });
 
   revealElements.forEach((el, i) => {
     el.style.transitionDelay = `${(i % 6) * 0.15}s`;
@@ -107,7 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
         e.preventDefault();
         const offset = 80;
         const top = target.getBoundingClientRect().top + window.scrollY - offset;
-        window.scrollTo({top, behavior: 'smooth'});
+        window.scrollTo({ top, behavior: 'smooth' });
       }
     });
   });
@@ -118,17 +115,13 @@ document.addEventListener('DOMContentLoaded', () => {
     if (localStorage.getItem('cookiesAccepted')) {
       cookieBanner.classList.add('hidden');
     }
-
     document.getElementById('cookieAccept')?.addEventListener('click', () => {
       localStorage.setItem('cookiesAccepted', 'true');
       cookieBanner.classList.add('hidden');
     });
-
     document.getElementById('cookieCancel')?.addEventListener('click', () => {
       localStorage.setItem('cookiesAccepted', 'false');
       cookieBanner.classList.add('hidden');
     });
   }
-
 });
-
