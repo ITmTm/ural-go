@@ -20,3 +20,4 @@
     transform 0.8s var(--ease);
 
     &.active {
+      border-color: var(--c-accent);
