@@ -21,6 +21,7 @@
 
     &.active {
       border-color: var(--c-accent);
+
       .faq__question svg {
         transform: rotate(45deg);
       }
