@@ -7,3 +7,5 @@
   transform: scale(0.8);
   pointer-events: none;
   transition: all var(--duration) var(--ease);
+
+  &.visible {
