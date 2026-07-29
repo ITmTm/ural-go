@@ -33,3 +33,4 @@
   &__privacy-link {
     font-size: 13px;
     color: rgba(255, 255, 255, 0.4);
+    transition: color var(--duration) var(--ease);
