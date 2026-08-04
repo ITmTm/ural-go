@@ -59,3 +59,5 @@
     transition: all var(--duration) var(--ease);
     overflow: hidden;
     position: relative;
+
+    &::after {
