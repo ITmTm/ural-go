@@ -97,3 +97,5 @@
       border-radius: 2px;
       transition: all var(--duration) var(--ease);
     }
+
+    &.active span:nth-child(1) {
