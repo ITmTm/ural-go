@@ -141,3 +141,4 @@
   transition: opacity var(--duration) var(--ease);
 
   &.active {
+    opacity: 1;
