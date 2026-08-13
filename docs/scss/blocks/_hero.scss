@@ -43,3 +43,4 @@
 
   &__title {
     font-family: var(--f-heading);
+    font-size: clamp(32px, 5vw, 56px);
