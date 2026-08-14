@@ -55,3 +55,4 @@
 
   &__accent {
     background: linear-gradient(135deg, var(--c-accent), #fbbf24);
+    -webkit-background-clip: text;
