@@ -123,10 +123,10 @@
       width: 200%;
       height: 2px;
       background: repeating-linear-gradient(
-          90deg,
-          var(--c-accent) 0px,
-          var(--c-accent) 20px,
-          transparent 20px,
+              90deg,
+              var(--c-accent) 0px,
+              var(--c-accent) 20px,
+              transparent 20px,
               transparent 40px
       );
       animation: roadMove 2s linear infinite;
@@ -165,11 +165,11 @@
       width: 40%;
       height: 200%;
       background: linear-gradient(
-          105deg,
-          transparent 20%,
-          rgba(255, 220, 100, 0.15) 35%,
-          rgba(255, 220, 100, 0.7) 50%,
-          rgba(255, 220, 100, 0.15) 65%,
+              105deg,
+              transparent 20%,
+              rgba(255, 220, 100, 0.15) 35%,
+              rgba(255, 220, 100, 0.7) 50%,
+              rgba(255, 220, 100, 0.15) 65%,
               transparent 80%
       );
       transform: skewX(-15deg);
