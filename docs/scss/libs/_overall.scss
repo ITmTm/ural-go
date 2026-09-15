@@ -40,3 +40,4 @@
   transition: opacity 0.8s var(--ease), transform 0.8s var(--ease);
 
   &.visible {
+    opacity: 1;
