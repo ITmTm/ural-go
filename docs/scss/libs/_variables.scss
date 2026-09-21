@@ -1,5 +1,5 @@
 :root {
-// Colors
+  // Colors
   --c-dark: #0d0f13;
   --c-dark-2: #141720;
   --c-dark-3: #1a1e2a;
@@ -17,17 +17,17 @@
   --c-border: rgba(255, 255, 255, 0.08);
   --c-border-light: #e5e7eb;
 
-// Typography
+  // Typography
   --f-heading: 'Unbounded', sans-serif;
   --f-body: 'Manrope', sans-serif;
 
-// Sizing
+  // Sizing
   --container: 1200px;
   --radius: 16px;
   --radius-sm: 10px;
   --radius-xs: 6px;
 
-// Transitions
+  // Transitions
   --ease: cubic-bezier(0.4, 0, 0.2, 1);
   --duration: 0.3s;
 }
