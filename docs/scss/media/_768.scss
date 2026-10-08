@@ -8,3 +8,4 @@
   .hero {
     background: url('../img/hero-mini.avif') center/cover no-repeat;
     &::before {
+      content: none;
