@@ -1,2 +1,3 @@
 # 🚕 URAL GO Park Perm
 > Лендинг таксопарка «URAL GO» — подключение водителей к Яндекс.Про в г. Пермь
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
