@@ -13,3 +13,5 @@
 
 ### 🔗 [Демо](https://itmtm.github.io/uralgo/)
 ---
+
+## ✨ Возможности
