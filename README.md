@@ -45,3 +45,4 @@
 | Google Fonts | Шрифты Unbounded + Manrope |
 | SVG | Иконки |
 | Яндекс.Карты | Встроенная карта |
+---
