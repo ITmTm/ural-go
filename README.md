@@ -59,3 +59,4 @@ ural-go/
 │   │   │   ├── _advantages.scss
 │   │   │   ├── _btn.scss
 │   │   │   ├── _contacts.scss
+│   │   │   ├── _cookies.scss
