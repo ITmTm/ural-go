@@ -57,3 +57,4 @@ ural-go/
 │   ├── scss/
 │   │   ├── blocks/              # Блоки — по одному файлу на компонент
 │   │   │   ├── _advantages.scss
+│   │   │   ├── _btn.scss
