@@ -56,3 +56,4 @@ ural-go/
 │   │   └── style.min.css.map    # Source map для отладки (генерируется gulp)
 │   ├── scss/
 │   │   ├── blocks/              # Блоки — по одному файлу на компонент
+│   │   │   ├── _advantages.scss
