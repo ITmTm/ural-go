@@ -53,3 +53,4 @@ ural-go/
 ├── docs/                        # Исходники для разработки
 │   ├── css/
 │   │   ├── style.min.css        # Скомпилированные стили (генерируется gulp)
+│   │   └── style.min.css.map    # Source map для отладки (генерируется gulp)
