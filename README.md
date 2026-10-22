@@ -73,3 +73,4 @@ ural-go/
 │   │   │   ├── _team.scss
 │   │   │   └── _ticker.scss
 │   │   ├── libs/                # Базовые стили
+│   │   │   ├── _overall.scss    # Утилиты: .container, .reveal, .section-header, скроллбар
