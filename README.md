@@ -65,3 +65,4 @@ ural-go/
 │   │   │   ├── _floating-cta.scss
 │   │   │   ├── _footer.scss
 │   │   │   ├── _header.scss
+│   │   │   ├── _hero.scss
