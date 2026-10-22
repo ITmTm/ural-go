@@ -62,3 +62,4 @@ ural-go/
 │   │   │   ├── _cookies.scss
 │   │   │   ├── _cta-banner.scss
 │   │   │   ├── _faq.scss
+│   │   │   ├── _floating-cta.scss
