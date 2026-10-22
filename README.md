@@ -69,3 +69,4 @@ ural-go/
 │   │   │   ├── _how.scss
 │   │   │   ├── _conditions.scss
 │   │   │   ├── _page-404.scss
+│   │   │   ├── _privacy-page.scss
