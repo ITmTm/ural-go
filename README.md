@@ -75,3 +75,4 @@ ural-go/
 │   │   ├── libs/                # Базовые стили
 │   │   │   ├── _overall.scss    # Утилиты: .container, .reveal, .section-header, скроллбар
 │   │   │   ├── _reset.scss      # Сброс стилей и базовые теги
+│   │   │   └── _variables.scss  # CSS-переменные (цвета, шрифты, размеры)
