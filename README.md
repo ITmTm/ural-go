@@ -72,3 +72,4 @@ ural-go/
 │   │   │   ├── _privacy-page.scss
 │   │   │   ├── _team.scss
 │   │   │   └── _ticker.scss
+│   │   ├── libs/                # Базовые стили
