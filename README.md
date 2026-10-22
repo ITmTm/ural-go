@@ -67,3 +67,4 @@ ural-go/
 │   │   │   ├── _header.scss
 │   │   │   ├── _hero.scss
 │   │   │   ├── _how.scss
+│   │   │   ├── _conditions.scss
