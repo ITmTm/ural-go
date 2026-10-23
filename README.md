@@ -95,3 +95,4 @@ ural-go/
 │   │   │   └── _index.scss      # Подключение всех медиа-файлов
 │   │   ├── _hovers.scss         # Все hover-состояния
 │   │   ├── _keyframes.scss      # CSS-анимации (fadeInUp, bounce, pulse-glow, shimmer)
+│   │   └── style.scss           # Главный файл — подключает все модули
