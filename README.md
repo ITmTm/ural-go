@@ -102,3 +102,4 @@ ural-go/
 │   ├── img/
 │   │   ├── logo.png             # Логотип парка
 │   │   ├── hero.avif            # Фон hero-секции (десктоп)
+│   │   ├── hero-mini.avif       # Фон hero-секции (мобильный)
