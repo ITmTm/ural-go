@@ -108,3 +108,4 @@ ural-go/
 │   │   ├── pomoshchnik.avif     # Фото помощника
 │   │   ├── dispetcher.avif      # Фото диспетчера
 │   │   └── favicon_io/          # Набор favicon
+│   ├── icons/
