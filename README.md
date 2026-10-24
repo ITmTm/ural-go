@@ -109,3 +109,4 @@ ural-go/
 │   │   ├── dispetcher.avif      # Фото диспетчера
 │   │   └── favicon_io/          # Набор favicon
 │   ├── icons/
+│   │   ├── telegram.svg
