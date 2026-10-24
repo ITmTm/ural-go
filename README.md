@@ -100,3 +100,4 @@ ural-go/
 │   │   ├── script.js            # Исходный JS
 │   │   └── script.min.js        # Минифицированный JS (генерируется gulp)
 │   ├── img/
+│   │   ├── logo.png             # Логотип парка
