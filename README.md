@@ -97,3 +97,4 @@ ural-go/
 │   │   ├── _keyframes.scss      # CSS-анимации (fadeInUp, bounce, pulse-glow, shimmer)
 │   │   └── style.scss           # Главный файл — подключает все модули
 │   ├── js/
+│   │   ├── script.js            # Исходный JS
