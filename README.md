@@ -103,3 +103,4 @@ ural-go/
 │   │   ├── logo.png             # Логотип парка
 │   │   ├── hero.avif            # Фон hero-секции (десктоп)
 │   │   ├── hero-mini.avif       # Фон hero-секции (мобильный)
+│   │   ├── og-image.png         # Изображение для Open Graph (1200×630)
