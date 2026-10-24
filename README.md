@@ -110,3 +110,4 @@ ural-go/
 │   │   └── favicon_io/          # Набор favicon
 │   ├── icons/
 │   │   ├── telegram.svg
+│   │   ├── whatsapp.svg
