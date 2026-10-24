@@ -107,3 +107,4 @@ ural-go/
 │   │   ├── direktor.avif        # Фото директора
 │   │   ├── pomoshchnik.avif     # Фото помощника
 │   │   ├── dispetcher.avif      # Фото диспетчера
+│   │   └── favicon_io/          # Набор favicon
