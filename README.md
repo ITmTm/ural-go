@@ -112,3 +112,4 @@ ural-go/
 │   │   ├── telegram.svg
 │   │   ├── whatsapp.svg
 │   │   ├── vk.svg
+│   │   └── max.svg
