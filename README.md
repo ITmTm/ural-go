@@ -111,3 +111,4 @@ ural-go/
 │   ├── icons/
 │   │   ├── telegram.svg
 │   │   ├── whatsapp.svg
+│   │   ├── vk.svg
