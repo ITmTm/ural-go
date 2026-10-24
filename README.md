@@ -104,3 +104,4 @@ ural-go/
 │   │   ├── hero.avif            # Фон hero-секции (десктоп)
 │   │   ├── hero-mini.avif       # Фон hero-секции (мобильный)
 │   │   ├── og-image.png         # Изображение для Open Graph (1200×630)
+│   │   ├── direktor.avif        # Фото директора
