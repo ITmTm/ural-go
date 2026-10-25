@@ -113,3 +113,4 @@ ural-go/
 │   │   ├── whatsapp.svg
 │   │   ├── vk.svg
 │   │   └── max.svg
+│   ├── index.html               # Главная страница (лендинг)
