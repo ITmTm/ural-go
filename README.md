@@ -125,3 +125,4 @@ ural-go/
 ├── gulpfile.js                  # Конфигурация сборщика (ESM)
 ├── package.json                 # Зависимости проекта
 └── README.md
+```
