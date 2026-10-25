@@ -122,3 +122,4 @@ ural-go/
 │   ├── .htaccess                # Настройка Apache (404, чистые URL)
 │   └── web.config               # Конфиг для IIS (Windows-хостинг)
 ├── dist/                        # Продакшн-сборка (генерируется gulp build)
+├── gulpfile.js                  # Конфигурация сборщика (ESM)
