@@ -121,3 +121,4 @@ ural-go/
 │   ├── robots.txt               # Инструкции для поисковых роботов
 │   ├── .htaccess                # Настройка Apache (404, чистые URL)
 │   └── web.config               # Конфиг для IIS (Windows-хостинг)
+├── dist/                        # Продакшн-сборка (генерируется gulp build)
