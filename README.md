@@ -120,3 +120,4 @@ ural-go/
 │   ├── sitemap.xml              # Карта сайта для поисковиков
 │   ├── robots.txt               # Инструкции для поисковых роботов
 │   ├── .htaccess                # Настройка Apache (404, чистые URL)
+│   └── web.config               # Конфиг для IIS (Windows-хостинг)
