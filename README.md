@@ -126,3 +126,5 @@ ural-go/
 ├── package.json                 # Зависимости проекта
 └── README.md
 ```
+
+---
