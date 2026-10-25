@@ -124,3 +124,4 @@ ural-go/
 ├── dist/                        # Продакшн-сборка (генерируется gulp build)
 ├── gulpfile.js                  # Конфигурация сборщика (ESM)
 ├── package.json                 # Зависимости проекта
+└── README.md
