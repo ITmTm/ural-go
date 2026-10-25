@@ -123,3 +123,4 @@ ural-go/
 │   └── web.config               # Конфиг для IIS (Windows-хостинг)
 ├── dist/                        # Продакшн-сборка (генерируется gulp build)
 ├── gulpfile.js                  # Конфигурация сборщика (ESM)
+├── package.json                 # Зависимости проекта
