@@ -143,3 +143,5 @@ npm install
 
 # Запустить dev-сервер с watch
 gulp
+
+# Собрать продакшн в dist/
