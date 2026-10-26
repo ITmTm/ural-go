@@ -145,3 +145,4 @@ npm install
 gulp
 
 # Собрать продакшн в dist/
+gulp build
