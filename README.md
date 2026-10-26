@@ -132,3 +132,4 @@ ural-go/
 ## 🚀 Запуск
 ```bash
 # Клонировать репозиторий
+git clone https://github.com/itmtm/uralgo.git
