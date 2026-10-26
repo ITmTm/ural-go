@@ -154,3 +154,4 @@ gulp build
 
 1. Выполнить `gulp build` — в папке `dist/` появится готовая сборка
 2. `.htaccess`, `robots.txt` и `sitemap.xml` уже в папке `docs/` — при `gulp build` автоматически копируются в `dist/`
+3. Залить содержимое `dist/` в папку `public_html` на хостинге
