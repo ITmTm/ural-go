@@ -140,3 +140,5 @@ cd ural-go
 
 # Установить зависимости
 npm install
+
+# Запустить dev-сервер с watch
