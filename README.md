@@ -156,3 +156,4 @@ gulp build
 2. `.htaccess`, `robots.txt` и `sitemap.xml` уже в папке `docs/` — при `gulp build` автоматически копируются в `dist/`
 3. Залить содержимое `dist/` в папку `public_html` на хостинге
 4. Заменить домен в `og:url` и `twitter:url` в `index.html`
+5. Заменить домен в `sitemap.xml` и `robots.txt`
