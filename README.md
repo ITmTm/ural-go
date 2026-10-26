@@ -142,3 +142,4 @@ cd ural-go
 npm install
 
 # Запустить dev-сервер с watch
+gulp
