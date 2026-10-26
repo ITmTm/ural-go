@@ -139,3 +139,4 @@ git clone https://github.com/itmtm/uralgo.git
 cd ural-go
 
 # Установить зависимости
+npm install
