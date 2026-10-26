@@ -136,3 +136,4 @@ ural-go/
 git clone https://github.com/itmtm/uralgo.git
 
 # Перейти в папку
+cd ural-go
