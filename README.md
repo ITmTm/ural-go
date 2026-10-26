@@ -153,3 +153,4 @@ gulp build
 ## 🌐 Деплой на хостинг (Timeweb)
 
 1. Выполнить `gulp build` — в папке `dist/` появится готовая сборка
+2. `.htaccess`, `robots.txt` и `sitemap.xml` уже в папке `docs/` — при `gulp build` автоматически копируются в `dist/`
