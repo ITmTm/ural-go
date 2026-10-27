@@ -179,3 +179,5 @@ gulp build
 MIT © 2026 URAL GO Park Perm
 
 ---
+
+<p align="center">
