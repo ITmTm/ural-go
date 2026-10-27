@@ -176,3 +176,4 @@ gulp build
 ---
 
 ## 📄 Лицензия
+MIT © 2026 URAL GO Park Perm
