@@ -160,3 +160,5 @@ gulp build
 6. Отправить `sitemap.xml` в Яндекс.Вебмастер и Google Search Console
 
 ---
+
+## ⚙️ Настройка перед деплоем
