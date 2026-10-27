@@ -185,3 +185,4 @@ MIT © 2026 URAL GO Park Perm
   <br>
   📞 +7 (908) 267-00-67 · 📍 г. Пермь
   <br><br>
+  Made with ♥ by <a href="https://github.com/ITmTm">ITmTm</a>
