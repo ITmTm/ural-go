@@ -181,3 +181,4 @@ MIT © 2026 URAL GO Park Perm
 ---
 
 <p align="center">
+  <b>URAL GO Park Perm</b> — подключение водителей к Яндекс.Про
