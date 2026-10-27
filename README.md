@@ -157,3 +157,4 @@ gulp build
 3. Залить содержимое `dist/` в папку `public_html` на хостинге
 4. Заменить домен в `og:url` и `twitter:url` в `index.html`
 5. Заменить домен в `sitemap.xml` и `robots.txt`
+6. Отправить `sitemap.xml` в Яндекс.Вебмастер и Google Search Console
