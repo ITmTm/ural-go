@@ -3,7 +3,6 @@
 /dist/*
 !/dist/.gitkeep
 /docs/js/main.min.js
-/docs/css
 docs/css/style.min.css.map
 gulpfile.js
 robots.txt
